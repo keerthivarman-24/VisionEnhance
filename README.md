@@ -322,6 +322,13 @@ python standalone.py `
   --norm_max 1.0
 ```
 
+You can download pre-trained model [here](https://github.com/keerthivarman-24/VisionEnhance/releases/tag/v1.0)
+
+```bash
+python standalone.py --input_dir ./dataset/Test_NoisyLR --output_dir .restored_outputs --checkpoint model.pt --norm_max 1.0
+```
+
+
 The restored `.npy` files are saved with the same filenames:
 
 ```text
