@@ -55,6 +55,10 @@ The solution does not require:
 
 ### 3.1 Open a terminal in the submission directory
 
+```bash
+cd Hackers-crackers
+```
+
 The current directory should contain `run.py`, `model.py`, `requirements.txt`, `README.md`, and the `models` directory.
 
 ### 3.2 Create a virtual environment
